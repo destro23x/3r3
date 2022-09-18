@@ -1,0 +1,14 @@
+{
+    "files": {
+      "main.css": "/static/css/main.7a08806c.css",
+      "main.js": "/static/js/main.f09e0013.js",
+      "static/media/google-logo.png": "/static/media/google-logo.d74131b9cd3ee4fff4ca.png",
+      "index.html": "./public/index.html",
+      "main.7a08806c.css.map": "/static/css/main.7a08806c.css.map",
+      "main.f09e0013.js.map": "/static/js/main.f09e0013.js.map"
+    },
+    "entrypoints": [
+      "static/css/main.7a08806c.css",
+      "static/js/main.f09e0013.js"
+    ]
+  }

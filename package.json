@@ -1,0 +1,50 @@
+{
+    "name": "3r3.pl",
+    "homepage": "http://destro23x.github.io/3r3",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@heroicons/react": "1.0.6",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^4.3.1",
+        "react-scripts": "^5.0.1",
+        "web-vitals": "^2.1.4",
+        "@fortawesome/free-regular-svg-icons": "5.15.4",
+        "@fortawesome/fontawesome-free": "5.15.4",
+        "@fortawesome/free-brands-svg-icons": "5.15.4",
+        "@fortawesome/free-solid-svg-icons": "5.15.4",
+        "@fortawesome/react-fontawesome": "0.1.18",
+        "@fortawesome/fontawesome-svg-core": "6.1.1",
+        "tailwindcss": "3.1.4",
+        "postcss": "8.4.14",
+        "autoprefixer": "10.4.7",
+        "@emailjs/browser": "3.6.2",
+        "react-google-recaptcha": "2.1.0",
+        "gh-pages": "4.0.0"
+    },
+    "scripts": {
+        "start": "PORT=3001 react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject",
+        "deploy": "gh-pages -d build"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.7",
+        "postcss": "^8.4.14",
+        "tailwindcss": "^3.1.3"
+      }
+}
