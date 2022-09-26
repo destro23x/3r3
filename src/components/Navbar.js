@@ -24,9 +24,9 @@ export default function Navbar() {
           <a href="#collection" className="mr-5 hover:text-white">
             Skup
           </a>
-          <a href="#shop" className="mr-5 hover:text-white">
+          {/* <a href="#shop" className="mr-5 hover:text-white">
             Sklep
-          </a>
+          </a> */}
           <a href="#investors" className="mr-5 hover:text-white">
             Inwestorzy
           </a>

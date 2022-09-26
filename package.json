@@ -1,6 +1,6 @@
 {
     "name": "3r3.pl",
-    "homepage": "http://destro23x.github.io/3r3",
+    "homepage": "http://3r3.pl/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -21,7 +21,8 @@
         "autoprefixer": "10.4.7",
         "@emailjs/browser": "3.6.2",
         "react-google-recaptcha": "2.1.0",
-        "gh-pages": "4.0.0"
+        "gh-pages": "4.0.0",
+        "react-ga4": "1.4.1"
     },
     "scripts": {
         "start": "PORT=3001 react-scripts start",
